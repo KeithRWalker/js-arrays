@@ -1,0 +1,1 @@
+console.log('js-arrays main.js linked');
